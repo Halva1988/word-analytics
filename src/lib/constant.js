@@ -1,0 +1,2 @@
+export const INSTAGRAM_MAX_SYMBOLS = 2200;
+export const FACEBOOK_MAX_SYMBOLS = 3000;
